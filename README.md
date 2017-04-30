@@ -1,2 +1,2 @@
 # hello-world
-Just Anithe Repo
+Just Another Repo
